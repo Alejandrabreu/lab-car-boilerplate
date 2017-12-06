@@ -1,6 +1,6 @@
 /* Los estilos de tu proyecto */
 .opening{
-	background-image: url(../../lab-car-boilerplate/assets/images/taxi.jpg);
+	background-image: url(../images/taxi.jpg);
 	background-position: bottom;
 	height: 100vh;
 	background-size: cover;
@@ -33,7 +33,7 @@
 	padding-right: 7%;	
 }
 .drive{
-	background-image: url(../../lab-car-boilerplate/assets/images/conduce.jpg) ;
+	background-image: url(../images/conduce.jpg) ;
 	background-position: center;
 	background-size: cover;
 	padding-top: 2%;
